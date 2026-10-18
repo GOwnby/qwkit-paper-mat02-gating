@@ -1,4 +1,4 @@
-﻿{
+{
     "description":  "Self-contained repository containing the full reviewed manuscript (MAT02_paper.pdf), LaTeX source, qwkit v0.7.0 simulation engine, automated mathematical verification test suite (69 tests), and reproduction scripts/JSON datasets for: Where the gate charge must sit: electrostatic limits of electrolyte gating at the LaInO3/BaSnO3 interface and their intersubband signature",
     "upload_type":  "software",
     "creators":  [
