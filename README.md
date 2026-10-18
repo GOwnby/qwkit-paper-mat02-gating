@@ -1,4 +1,6 @@
-﻿# Where the gate charge must sit: electrostatic limits of electrolyte gating at the LaInO3/BaSnO3 interface and their intersubband signature
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444586.svg)](https://doi.org/10.5281/zenodo.23444586)
+
+# Where the gate charge must sit: electrostatic limits of electrolyte gating at the LaInO3/BaSnO3 interface and their intersubband signature
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
