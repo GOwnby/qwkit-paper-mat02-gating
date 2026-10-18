@@ -1,0 +1,32 @@
+NA 5e+19 ns 3.00e+13 FF  : cap frac 0.000 margin +0.687 | E21 0.459 | mean bare 0.540 coll 0.702 | top 0.587 (0.68) | f/e 3.51 | median30 0.611 | n in BSO states 3.00e+13
+NA 5e+19 ns 3.00e+13 DON : cap frac 0.000 margin +0.590 | E21 0.458 | mean bare 0.536 coll 0.699 | top 0.587 (0.68) | f/e 3.51 | median30 0.611 | n in BSO states 3.00e+13
+NA 5e+19 ns 3.00e+13 EDL : cap frac 0.028 margin -0.293 | E21 0.306 | mean bare 0.531 coll 0.687 | top 0.583 (0.68) | f/e 3.47 | median30 0.594 | n in BSO states 2.92e+13
+NA 5e+19 ns 3.00e+13 EDLX: cap frac 0.000 margin +0.950 | E21 0.456 | mean bare 0.565 coll 0.727 | top 0.585 (0.68) | f/e 3.49 | median30 0.611 | n in BSO states 3.01e+13
+NA 5e+19 ns 5.00e+13 FF  : cap frac 0.000 margin +0.469 | E21 0.491 | mean bare 0.569 coll 0.811 | top 0.669 (0.42) | f/e 3.42 | median30 0.750 | n in BSO states 5.00e+13
+NA 5e+19 ns 5.00e+13 DON : cap frac 0.000 margin +0.298 | E21 0.488 | mean bare 0.559 coll 0.802 | top 0.668 (0.59) | f/e 3.43 | median30 0.740 | n in BSO states 5.00e+13
+NA 5e+19 ns 5.00e+13 EDL : cap frac 0.359 margin -0.541 | E21 0.183 | mean bare 0.501 coll 0.655 | top 0.594 (0.52) | f/e 2.93 | median30 0.573 | n in BSO states 3.21e+13
+NA 5e+19 ns 5.00e+13 EDLX: cap frac 0.000 margin -0.091 | E21 0.489 | mean bare 0.601 coll 0.842 | top 0.668 (0.57) | f/e 3.39 | median30 0.764 | n in BSO states 5.01e+13
+NA 5e+19 ns 7.00e+13 FF  : cap frac 0.000 margin +0.290 | E21 0.521 | mean bare 0.586 coll 0.887 | top 0.732 (0.47) | f/e 3.33 | median30 0.852 | n in BSO states 7.00e+13
+NA 5e+19 ns 7.00e+13 DON : cap frac 0.002 margin +0.057 | E21 0.513 | mean bare 0.561 coll 0.862 | top 0.732 (0.36) | f/e 3.32 | median30 0.774 | n in BSO states 6.99e+13
+NA 5e+19 ns 7.00e+13 EDL : cap frac 0.484 margin -0.718 | E21 0.082 | mean bare 0.501 coll 0.679 | top 0.606 (0.43) | f/e 2.71 | median30 0.634 | n in BSO states 3.61e+13
+NA 5e+19 ns 7.00e+13 EDLX: cap frac 0.139 margin -0.649 | E21 0.434 | mean bare 0.610 coll 0.866 | top 0.702 (0.47) | f/e 3.14 | median30 0.804 | n in BSO states 6.04e+13
+NA 5e+19 ns 1.08e+14 FF  : cap frac 0.002 margin +0.034 | E21 0.577 | mean bare 0.588 coll 0.966 | top 0.835 (0.26) | f/e 3.14 | median30 0.922 | n in BSO states 1.08e+14
+NA 5e+19 ns 1.08e+14 DON : cap frac 0.211 margin -0.186 | E21 0.525 | mean bare 0.493 coll 0.843 | top 0.789 (0.35) | f/e 3.06 | median30 0.735 | n in BSO states 8.53e+13
+NA 5e+19 ns 1.08e+14 EDL : cap frac 0.676 margin -1.041 | E21 0.018 | mean bare 0.515 coll 0.745 | top 0.609 (0.31) | f/e 2.37 | median30 0.693 | n in BSO states 3.50e+13
+NA 5e+19 ns 1.08e+14 EDLX: cap frac 0.410 margin -0.973 | E21 0.275 | mean bare 0.612 coll 0.867 | top 0.712 (0.36) | f/e 2.70 | median30 0.783 | n in BSO states 6.39e+13
+NA 1e+18 ns 3.00e+13 FF  : cap frac 0.000 margin +0.940 | E21 0.213 | mean bare 0.291 coll 0.463 | top 0.385 (0.18) | f/e 4.08 | median30 0.463 | n in BSO states 3.00e+13
+NA 1e+18 ns 3.00e+13 DON : cap frac 0.000 margin +0.847 | E21 0.213 | mean bare 0.290 coll 0.462 | top 0.385 (0.18) | f/e 4.08 | median30 0.462 | n in BSO states 3.00e+13
+NA 1e+18 ns 3.00e+13 EDL : cap frac 0.000 margin -0.002 | E21 0.213 | mean bare 0.290 coll 0.462 | top 0.385 (0.18) | f/e 4.08 | median30 0.462 | n in BSO states 3.00e+13
+NA 1e+18 ns 3.00e+13 EDLX: cap frac 0.000 margin +1.349 | E21 0.211 | mean bare 0.291 coll 0.463 | top 0.385 (0.18) | f/e 4.06 | median30 0.460 | n in BSO states 3.00e+13
+NA 1e+18 ns 5.00e+13 FF  : cap frac 0.000 margin +0.715 | E21 0.273 | mean bare 0.340 coll 0.569 | top 0.473 (0.10) | f/e 3.86 | median30 0.578 | n in BSO states 5.00e+13
+NA 1e+18 ns 5.00e+13 DON : cap frac 0.000 margin +0.551 | E21 0.273 | mean bare 0.337 coll 0.566 | top 0.473 (0.11) | f/e 3.87 | median30 0.577 | n in BSO states 5.00e+13
+NA 1e+18 ns 5.00e+13 EDL : cap frac 0.223 margin -0.502 | E21 0.242 | mean bare 0.321 coll 0.501 | top 0.332 (0.13) | f/e 3.51 | median30 0.471 | n in BSO states 3.89e+13
+NA 1e+18 ns 5.00e+13 EDLX: cap frac 0.000 margin +0.352 | E21 0.272 | mean bare 0.348 coll 0.577 | top 0.363 (0.10) | f/e 3.85 | median30 0.576 | n in BSO states 5.00e+13
+NA 1e+18 ns 7.00e+13 FF  : cap frac 0.000 margin +0.526 | E21 0.328 | mean bare 0.378 coll 0.654 | top 0.445 (0.12) | f/e 3.71 | median30 0.673 | n in BSO states 7.00e+13
+NA 1e+18 ns 7.00e+13 DON : cap frac 0.000 margin +0.293 | E21 0.327 | mean bare 0.369 coll 0.646 | top 0.445 (0.11) | f/e 3.71 | median30 0.667 | n in BSO states 7.00e+13
+NA 1e+18 ns 7.00e+13 EDL : cap frac 0.409 margin -0.690 | E21 0.148 | mean bare 0.347 coll 0.543 | top 0.429 (0.15) | f/e 3.12 | median30 0.548 | n in BSO states 4.13e+13
+NA 1e+18 ns 7.00e+13 EDLX: cap frac 0.016 margin -0.555 | E21 0.325 | mean bare 0.388 coll 0.659 | top 0.443 (0.11) | f/e 3.66 | median30 0.627 | n in BSO states 6.90e+13
+NA 1e+18 ns 1.08e+14 FF  : cap frac 0.000 margin +0.228 | E21 0.418 | mean bare 0.428 coll 0.780 | top 0.842 (0.08) | f/e 3.47 | median30 0.813 | n in BSO states 1.08e+14
+NA 1e+18 ns 1.08e+14 DON : cap frac 0.029 margin -0.076 | E21 0.407 | mean bare 0.383 coll 0.728 | top 0.555 (0.09) | f/e 3.44 | median30 0.714 | n in BSO states 1.05e+14
+NA 1e+18 ns 1.08e+14 EDL : cap frac 0.588 margin -1.020 | E21 0.000 | mean bare 0.368 coll 0.604 | top 0.519 (0.09) | f/e 2.85 | median30 0.752 | n in BSO states 4.36e+13
+NA 1e+18 ns 1.08e+14 EDLX: cap frac 0.325 margin -0.917 | E21 0.307 | mean bare 0.433 coll 0.690 | top 0.593 (0.13) | f/e 3.05 | median30 0.671 | n in BSO states 7.30e+13

@@ -1,0 +1,10 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it as below."
+authors:
+  - family-names: "Ownby"
+    given-names: "Gracen"
+    affiliation: "University of Oklahoma"
+title: "Where the gate charge must sit: electrostatic limits of electrolyte gating at the LaInO3/BaSnO3 interface and their intersubband signature"
+version: "1.0.0"
+date-released: "2026-10-17"
+license: MIT

@@ -1,0 +1,142 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kim et~al.(2019)Kim, Markurt, Kim, Zupancic, Shin, Albrecht, and
+  Char]{Kim2019LIO}
+Y.~M. Kim, T.~Markurt, Y.~Kim, M.~Zupancic, J.~Shin, M.~Albrecht, and K.~Char.
+\newblock Interface polarization model for a 2-dimensional electron gas at the
+  {BaSnO$_3$/LaInO$_3$} interface.
+\newblock \emph{Sci. Rep.}, 9:\penalty0 16202, 2019.
+\newblock \doi{10.1038/s41598-019-52772-8}.
+
+\bibitem[Aggoune and Draxl(2021)]{Aggoune2021}
+W.~Aggoune and C.~Draxl.
+\newblock Tuning two-dimensional electron and hole gases at
+  {LaInO$_3$/BaSnO$_3$} interfaces by polar distortions, termination, and
+  thickness.
+\newblock \emph{npj Comput. Mater.}, 7:\penalty0 174, 2021.
+\newblock \doi{10.1038/s41524-021-00646-x}.
+
+\bibitem[Lee et~al.(2025)Lee, Cho, Park, Kim, Schlom, and Char]{Lee2024LIO}
+J.~Lee, H.~Cho, J.~Park, B.~Kim, D.~G. Schlom, and K.~Char.
+\newblock Observation of mobility above 2000 cm$^2$/v s in {2DEG} at
+  {LaInO$_3$/BaSnO$_3$} interface by electric-double-layer gating.
+\newblock \emph{Adv. Electron. Mater.}, 11\penalty0 (9):\penalty0 2400811,
+  2025.
+\newblock \doi{10.1002/aelm.202400811}.
+
+\bibitem[Ueno et~al.(2008)Ueno, Nakamura, Shimotani, Ohtomo, Kimura, Nojima,
+  Aoki, Iwasa, and Kawasaki]{Ueno2008}
+K.~Ueno, S.~Nakamura, H.~Shimotani, A.~Ohtomo, N.~Kimura, T.~Nojima, H.~Aoki,
+  Y.~Iwasa, and M.~Kawasaki.
+\newblock Electric-field-induced superconductivity in an insulator.
+\newblock \emph{Nat. Mater.}, 7:\penalty0 855, 2008.
+
+\bibitem[Bisri et~al.(2017)Bisri, Shimizu, Nakano, and Iwasa]{Bisri2017}
+S.~Z. Bisri, S.~Shimizu, M.~Nakano, and Y.~Iwasa.
+\newblock Endeavor of iontronics: from fundamentals to applications of
+  ion-controlled electronics.
+\newblock \emph{Adv. Mater.}, 29:\penalty0 1607054, 2017.
+\newblock \doi{10.1002/adma.201607054}.
+
+\bibitem[Jeong et~al.(2013)Jeong, Aetukuri, Graf, Schladt, Samant, and
+  Parkin]{Jeong2013}
+J.~Jeong, N.~Aetukuri, T.~Graf, T.~D. Schladt, M.~G. Samant, and S.~S.~P.
+  Parkin.
+\newblock Suppression of metal-insulator transition in {VO$_2$} by electric
+  field-induced oxygen vacancy formation.
+\newblock \emph{Science}, 339:\penalty0 1402, 2013.
+\newblock \doi{10.1126/science.1230512}.
+
+\bibitem[Wang et~al.(2019)Wang, Walter, Ganguly, Yu, Yu, Zhang, Zhou, Fu,
+  Greven, and Leighton]{Wang2019BSO}
+H.~Wang, J.~Walter, K.~Ganguly, B.~Yu, G.~Yu, Z.~Zhang, H.~Zhou, H.~Fu,
+  M.~Greven, and C.~Leighton.
+\newblock Wide-voltage-window reversible control of electronic transport in
+  electrolyte-gated epitaxial {BaSnO$_3$}.
+\newblock \emph{Phys. Rev. Mater.}, 3:\penalty0 075001, 2019.
+\newblock \doi{10.1103/PhysRevMaterials.3.075001}.
+
+\bibitem[Ownby(2026{\natexlab{a}})]{OwnbyMAT01}
+G.~Ownby.
+\newblock Intersubband optics of the polar {LaInO$_3$/BaSnO$_3$}
+  two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited
+  lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte
+  gating, 2026{\natexlab{a}}.
+\newblock unpublished.
+
+\bibitem[Ownby(2026{\natexlab{b}})]{qwkit}
+G.~Ownby.
+\newblock qwkit: self-consistent intersubband optics of quantum wells,
+  2026{\natexlab{b}}.
+\newblock version 0.6.1, University of Oklahoma.
+
+\bibitem[Niedermeier et~al.(2017)Niedermeier, Rhode, Ide, Hiramatsu, Hosono,
+  Kamiya, and Moram]{Niedermeier2017}
+C.~A. Niedermeier, S.~Rhode, K.~Ide, H.~Hiramatsu, H.~Hosono, T.~Kamiya, and
+  M.~A. Moram.
+\newblock Electron effective mass and mobility limits in degenerate perovskite
+  stannate {BaSnO$_3$}.
+\newblock \emph{Phys. Rev. B}, 95:\penalty0 161202(R), 2017.
+\newblock \doi{10.1103/PhysRevB.95.161202}.
+
+\bibitem[Jang et~al.(2017)Jang, Lee, Sohn, Kim, Seo, Park, Choi, and
+  Kim]{Jang2017LIO}
+D.~H. Jang, W.-J. Lee, E.~Sohn, H.~J. Kim, D.~Seo, J.-Y. Park, E.~J. Choi, and
+  K.~H. Kim.
+\newblock Single crystal growth and optical properties of a transparent
+  perovskite oxide {LaInO$_3$}.
+\newblock \emph{J. Appl. Phys.}, 121:\penalty0 125109, 2017.
+\newblock \doi{10.1063/1.4977863}.
+
+\bibitem[Galazka et~al.(2021)Galazka, Irmscher, Ganschow, Zupancic, Aggoune,
+  Draxl, Albrecht, Klimm, Kwasniewski, Schulz, et~al.]{Galazka2021}
+Z.~Galazka, K.~Irmscher, S.~Ganschow, M.~Zupancic, W.~Aggoune, C.~Draxl,
+  M.~Albrecht, D.~Klimm, A.~Kwasniewski, T.~Schulz, et~al.
+\newblock Melt growth and physical properties of bulk {LaInO$_3$} single
+  crystals.
+\newblock \emph{Phys. Status Solidi A}, 218\penalty0 (16):\penalty0 2100016,
+  2021.
+\newblock \doi{10.1002/pssa.202100016}.
+
+\bibitem[Nelson et~al.(1987)Nelson, Miller, and Kleinman]{Nelson1987}
+D.~F. Nelson, R.~C. Miller, and D.~A. Kleinman.
+\newblock Band nonparabolicity effects in semiconductor quantum wells.
+\newblock \emph{Phys. Rev. B}, 35:\penalty0 7770, 1987.
+\newblock \doi{10.1103/PhysRevB.35.7770}.
+
+\bibitem[Stanislavchuk et~al.(2012)Stanislavchuk, Sirenko, Litvinchuk, Luo, and
+  Cheong]{Stanislavchuk2012}
+T.~N. Stanislavchuk, A.~A. Sirenko, A.~P. Litvinchuk, X.~Luo, and S.-W. Cheong.
+\newblock Electronic band structure and optical phonons of {BaSnO$_3$} and
+  {Ba$_{0.97}$La$_{0.03}$SnO$_3$} single crystals: Theory and experiment.
+\newblock \emph{J. Appl. Phys.}, 112:\penalty0 044108, 2012.
+\newblock \doi{10.1063/1.4748309}.
+
+\bibitem[Aggoune et~al.(2022)Aggoune, Eljarrat, Nabok, Irmscher, Zupancic,
+  Galazka, Albrecht, Koch, and Draxl]{Aggoune2022}
+W.~Aggoune, A.~Eljarrat, D.~Nabok, K.~Irmscher, M.~Zupancic, Z.~Galazka,
+  M.~Albrecht, C.~Koch, and C.~Draxl.
+\newblock A consistent picture of excitations in cubic {BaSnO$_3$} revealed by
+  combining theory and experiment.
+\newblock \emph{Commun. Mater.}, 3:\penalty0 12, 2022.
+\newblock \doi{10.1038/s43246-022-00234-6}.
+
+\bibitem[Krishnaswamy et~al.(2017)Krishnaswamy, Himmetoglu, Kang, Janotti, and
+  Van~de Walle]{Krishnaswamy2017}
+K.~Krishnaswamy, B.~Himmetoglu, Y.~Kang, A.~Janotti, and C.~G. Van~de Walle.
+\newblock First-principles analysis of electron transport in {BaSnO$_3$}.
+\newblock \emph{Phys. Rev. B}, 95:\penalty0 205202, 2017.
+\newblock \doi{10.1103/PhysRevB.95.205202}.
+
+\bibitem[Ownby(2026{\natexlab{c}})]{OwnbyMAT03}
+G.~Ownby.
+\newblock Immobile electrons at frozen gate charge: what the transport data of
+  electrolyte-gated {LaInO$_3$/BaSnO$_3$} allow, 2026{\natexlab{c}}.
+\newblock unpublished.
+
+\end{thebibliography}
