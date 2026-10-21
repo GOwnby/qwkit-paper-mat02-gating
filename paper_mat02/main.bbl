@@ -62,18 +62,19 @@ H.~Wang, J.~Walter, K.~Ganguly, B.~Yu, G.~Yu, Z.~Zhang, H.~Zhou, H.~Fu,
 \newblock \doi{10.1103/PhysRevMaterials.3.075001}.
 
 \bibitem[Ownby(2026{\natexlab{a}})]{OwnbyMAT01}
-G.~Ownby.
-\newblock Intersubband optics of the polar {LaInO$_3$/BaSnO$_3$}
-  two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited
-  lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte
-  gating, 2026{\natexlab{a}}.
-\newblock unpublished.
+Gracen Ownby.
+\newblock {Intersubband optics of the polar LaInO3/BaSnO3 two-dimensional
+  electron gas: fragmented hybrid plasmons, phonon-limited lifetimes, intrinsic
+  second-order nonlinearity and the limits of electrolyte gating}.
+\newblock Zenodo, October 2026{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444579}.
 
 \bibitem[Ownby(2026{\natexlab{b}})]{qwkit}
-G.~Ownby.
-\newblock qwkit: self-consistent intersubband optics of quantum wells,
-  2026{\natexlab{b}}.
-\newblock version 0.6.1, University of Oklahoma.
+Gracen Ownby.
+\newblock {qwkit: self-consistent intersubband optics of quantum wells
+  (v0.7.0)}.
+\newblock Zenodo, October 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444120}.
 
 \bibitem[Niedermeier et~al.(2017)Niedermeier, Rhode, Ide, Hiramatsu, Hosono,
   Kamiya, and Moram]{Niedermeier2017}
@@ -134,9 +135,10 @@ K.~Krishnaswamy, B.~Himmetoglu, Y.~Kang, A.~Janotti, and C.~G. Van~de Walle.
 \newblock \doi{10.1103/PhysRevB.95.205202}.
 
 \bibitem[Ownby(2026{\natexlab{c}})]{OwnbyMAT03}
-G.~Ownby.
-\newblock Immobile electrons at frozen gate charge: what the transport data of
-  electrolyte-gated {LaInO$_3$/BaSnO$_3$} allow, 2026{\natexlab{c}}.
-\newblock unpublished.
+Gracen Ownby.
+\newblock {Immobile electrons at frozen gate charge: what the transport data of
+  electrolyte-gated LaInO3/BaSnO3 allow}.
+\newblock Zenodo, October 2026{\natexlab{c}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444587}.
 
 \end{thebibliography}

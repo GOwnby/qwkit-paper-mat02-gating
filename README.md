@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444586.svg)](https://doi.org/10.5281/zenodo.23444586)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444585.svg)](https://doi.org/10.5281/zenodo.23444585)
 
 # Where the gate charge must sit: electrostatic limits of electrolyte gating at the LaInO3/BaSnO3 interface and their intersubband signature
 
@@ -13,6 +13,8 @@ This repository is the permanent, self-contained mathematical and computational 
 1. The complete reviewed paper (`MAT02_paper.pdf`) and its LaTeX source (`paper_mat02/`).
 2. The complete `qwkit` (v0.7.0) Python package (`qwkit/`) and its 69 automated validation tests (`tests/`), which verify analytic limits, BenDaniel-Duke finite-well convergence, exact mirror-symmetry oddness $\chi^{(2)}(-F) = -\chi^{(2)}(F)$ to $10^{-11}$, two-band Kane orthogonality ($10^{-13}$), energy-conserving RK4 coupled-mode propagation, implicit-differentiation tangents, and RPA sum rules.
 3. The study scripts and precomputed JSON datasets (`studies/mat02/`) that generate every table, bound, and figure in the manuscript.
+
+4. Inputs taken from companion studies, copied unchanged so that this folder is self-contained: `studies/mat01/` (each with a `README_UPSTREAM.md` naming the source archive and the script that generates them).
 
 ## Quick Verification (Mathematical & Numerical Proof)
 
